@@ -1,4 +1,4 @@
-# Popcat: Fun & Relaxing Cat (Subtitle: My Little Popcat)
+# Popcat: Fun & Relaxing Cat (My Little Popcat)
 pop pop pop pop pop pop pop pop
 
 ## Overview
